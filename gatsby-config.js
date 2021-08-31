@@ -1,6 +1,6 @@
 module.exports = {
     siteMetadata: {
-        title: `My Blog`,
+        title: `Typical Cat - Revelations of the Cats`,
         description: `A blog for my thoughts!`,
         author: `Evgenii Komornyi`,
     },
@@ -28,7 +28,7 @@ module.exports = {
             resolve: `gatsby-plugin-manifest`,
             options: {
                 name: `gatsby-starter-default`,
-                short_name: `starter`,
+                short_name: `Typical Ferzis - Revelations of the Cats`,
                 start_url: `/`,
                 background_color: `#663399`,
                 theme_color: `#663399`,
