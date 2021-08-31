@@ -4,6 +4,15 @@ import Layout from '../components/layout';
 
 export default ({ data }) => {
     const post = data.markdownRemark;
+
+    React.useEffect(() => {
+        document.title = `Typical Cat - ${post.frontmatter.title}`;
+
+        return () => {
+            document.title = '';
+        };
+    });
+
     return (
         <Layout>
             <div>

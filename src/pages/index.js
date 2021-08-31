@@ -15,6 +15,10 @@ import { Badge, Box, Button, Grid } from '@material-ui/core';
 import { MenuBook } from '@material-ui/icons';
 
 export default ({ data }) => {
+    React.useEffect(() => {
+        document.title = 'Typical Cat - Revelations of the Cats';
+    }, []);
+
     return (
         <Layout>
             <div>
