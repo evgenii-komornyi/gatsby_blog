@@ -8,7 +8,7 @@ There are questions that become rhetorical. So I went to Google to find out equa
 
 1. Where does my poop go from the tray;
 2. Where does the food on my plate come from;
-3. Why does my slave call me now Kuzey, now Oksana, now Xavier, now Vasya (I am the Queen !!!);
+3. Why does my slave call me Kuzya, or Oksana, or Xavier, or Vasya (I am the Queen !!!);
 4. Why do people not want them to be warm when I mold my wool on their clothes;
 5. Who are all these people;
 6. Why people do not allow me to google;

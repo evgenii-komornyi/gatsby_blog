@@ -24,11 +24,11 @@ I am SuperCat!!!
 
 ![Orange fire](https://scontent.frix2-1.fna.fbcdn.net/v/t1.6435-9/118311571_1810644529105138_3893839247610513575_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=DVoDXDFVFx8AX8lrxNp&tn=ZkmFgKSNSy3aRyt5&_nc_ht=scontent.frix2-1.fna&oh=e47aabafc4a66a2ab5b3ddeaec606f9d&oe=61569BEF 'Orange fire')
 
-Are you really, Cat!
+Are you serious, Cat!
 
 ![Orange fire](https://scontent.frix2-1.fna.fbcdn.net/v/t1.6435-9/78289969_1521930611309866_4519292295408779264_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=qBhtsjmI48MAX_Jf0VC&_nc_ht=scontent.frix2-1.fna&oh=c2b7bc268fa617fe62e904db03a45766&oe=61559F4E 'Orange fire')
 
-Nop, just joking, Cat! Of course really, Cat!
+Nop, just joking, Cat! Of course I am serious, Cat!
 
 ![Orange fire](https://scontent.frix2-1.fna.fbcdn.net/v/t1.6435-9/42359166_1115658605270404_7060802221738295296_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_ohc=AGvjJud5DHwAX-_JOwq&tn=ZkmFgKSNSy3aRyt5&_nc_ht=scontent.frix2-1.fna&oh=dbd40f4c52c81a2bd78c73f3cddec6e2&oe=6153951A 'Orange fire')
 
