@@ -21,7 +21,7 @@ export default ({ data }) => {
 
     return (
         <Layout>
-            <div>
+            <div style={{ textAlign: 'center' }}>
                 <img
                     src="https://scontent.frix2-1.fna.fbcdn.net/v/t1.6435-9/p180x540/173548223_2041017502734505_4003704447261959053_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=0FYx3gJcv24AX88xHbf&_nc_ht=scontent.frix2-1.fna&oh=0dbcf917c2a1c9fbdb6c411d0c92d7f3&oe=61530B13"
                     alt=""
@@ -32,6 +32,7 @@ export default ({ data }) => {
                 >
                     <Button
                         variant="outlined"
+                        style={{ marginBottom: '20px' }}
                         color="warning"
                         endIcon={<MenuBook fontSize="large" />}
                     >
@@ -41,11 +42,11 @@ export default ({ data }) => {
                 <Box sx={{ width: '100%' }}>
                     <Grid
                         container
-                        rowSpacing={1}
+                        rowSpacing={5}
                         columnSpacing={{ xs: 1, sm: 2, md: 3 }}
                     >
                         {data.allMarkdownRemark.edges.map(({ node }) => (
-                            <Grid item xs={6} key={node.id}>
+                            <Grid item xs={12} key={node.id}>
                                 <ItemContainer>
                                     <BlogBody>
                                         <BlogTitle>
