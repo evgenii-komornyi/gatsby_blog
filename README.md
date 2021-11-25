@@ -2,7 +2,7 @@
 
 My first try to learn ReactJs and Gatsby blog with GraphQL.
 
-![komornyi.space](https://komornyi.space/static/img/projects/13.png)
+![Typical cat](https://komornyi.space/static/img/projects/13.png)
 
 ### Technologies
 
